@@ -1,4 +1,4 @@
-#**wireframing
+# Wireframing 
 ## Key Elements of a Wireframe
 
 Wireframes focus on the basic structure and functionality of a website or application. The key elements include:
